@@ -2,7 +2,7 @@
 
 I ran the tasks on a MacBook Pro, and got these results:
 
-Task														| Time
+Task														|Time
 ----------------------------------------|--------------------------:
 Copy a file byte-by-byte|3.221518 sec
 Copy a file byte array size 1KB|0.005718 sec
